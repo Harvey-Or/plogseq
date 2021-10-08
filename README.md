@@ -1,0 +1,2 @@
+# plogseq
+public logseq
